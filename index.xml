@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kater</title>
+    <link>https://kater-concepts.github.io/</link>
+    <description>Recent content on Kater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Nov 2021 08:16:20 +0100</lastBuildDate><atom:link href="https://kater-concepts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mudcat</title>
+      <link>https://kater-concepts.github.io/mudcat/</link>
+      <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
+      
+      <guid>https://kater-concepts.github.io/mudcat/</guid>
+      <description>The distinction between abstract and concrete words (such as dream in contrast to banana) represents a semantic categorisation highly relevant for Natural Language Processing (NLP) purposes. In this vein, our project MUDCAT investigates the notion of abstractness from a data-driven and application-oriented point of view. While the most long-standing discussions about abstractness have taken place in the cognitive sciences, we address and enhance critical issues in existing definitions, data collections and characterisations, and broaden and optimise the perspective towards effective exploitation in NLP approaches.</description>
+    </item>
+    
+  </channel>
+</rss>

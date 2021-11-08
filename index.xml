@@ -16,5 +16,44 @@
       <description>The distinction between abstract and concrete words (such as dream in contrast to banana) represents a semantic categorisation highly relevant for Natural Language Processing (NLP) purposes. In this vein, our project MUDCAT investigates the notion of abstractness from a data-driven and application-oriented point of view. While the most long-standing discussions about abstractness have taken place in the cognitive sciences, we address and enhance critical issues in existing definitions, data collections and characterisations, and broaden and optimise the perspective towards effective exploitation in NLP approaches.</description>
     </item>
     
+    <item>
+      <title>Publications</title>
+      <link>https://kater-concepts.github.io/publications/</link>
+      <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
+      
+      <guid>https://kater-concepts.github.io/publications/</guid>
+      <description>Eleri Aedmaa, Maximilian Köper, Sabine Schulte im Walde
+Combining Abstractness and Language-specific Theoretical Indicators for Detecting Non-Literal Usage of Estonian Particle Verbs [pdf/poster/resource/bib] In: Proceedings of the NAACL 2018 Student Research Workshop (NAACL-SRW). New Orleans, LA, June 2018.
+Sai Abishek Bhaskar, Maximilian Köper, Sabine Schulte im Walde, Diego Frassinelli
+Exploring Multi-Modal Text+Image Models to Distinguish between Abstract and Concrete Nouns [pdf/bib]
+In: Proceedings of the IWCS Workshop on Foundations of Situated and Multimodal Communication.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kater-concepts.github.io/teaching/</link>
+      <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
+      
+      <guid>https://kater-concepts.github.io/teaching/</guid>
+      <description>Cognitive and Computational Models of Abstractness
+Diego Frassinelli, Sabine Schulte im Walde
+Introductory Course at the 33rd European Summer School in Logic, Language and Information
+National University of Ireland Galway, August 8-12, 2022
+Cognitive and Computational Models of Abstractness
+Diego Frassinelli, Sabine Schulte im Walde
+Foundational Course at the 32nd European Summer School in Logic, Language and Information
+Utrecht Science Park in the Uithof, August 10-14, 2020 &amp;ndash; Cancelled
+Cognitive and Computational Models of Abstractness</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://kater-concepts.github.io/team/</link>
+      <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
+      
+      <guid>https://kater-concepts.github.io/team/</guid>
+      <description>Principal Investigators  Jun.-Prof. Diego Frassinelli (University of Konstanz) Prof. Sabine Schulte im Walde (University of Stuttgart)  Staff Members  Simone Beckmann Escandón, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2021) Sai Abishek Bhaskar, Bachelor Student (Manipal Institute of Technology, India, 2017) Maximilian Bräuninger, Master thesis (Institut für Informatik, Universität Stuttgart, 2019) Sabrina Brill, Bachelor Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2018) Stefan Fischer, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, current) Jan Gemander, Master Student (Institut für Informatik, Universität Stuttgart, 2018) Maximilian Köper, PhD Student (SFB 732/D12, 2014-2018) Christos Lontos, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2021) Daniela Naumann, PhD Student (SFB 732/MGK, 10/2017-06/2018)  </description>
+    </item>
+    
   </channel>
 </rss>

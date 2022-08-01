@@ -22,10 +22,7 @@
       <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
       
       <guid>https://kater-concepts.github.io/news/</guid>
-      <description>We are hiring: 3-year PhD position at the University of Stuttgart
-Project: MUDCAT
-Link: Application Procedure
-Deadline: 30 November 2021</description>
+      <description>We are hiring: 3-year PhD position at the University of Stuttgart Project: MUDCAT Link: Application Procedure Deadline: 30 November 2021</description>
     </item>
     
     <item>
@@ -34,11 +31,8 @@ Deadline: 30 November 2021</description>
       <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
       
       <guid>https://kater-concepts.github.io/publications/</guid>
-      <description>Eleri Aedmaa, Maximilian Köper, Sabine Schulte im Walde
-Combining Abstractness and Language-specific Theoretical Indicators for Detecting Non-Literal Usage of Estonian Particle Verbs [pdf/poster/resource/bib] In: Proceedings of the NAACL 2018 Student Research Workshop (NAACL-SRW). New Orleans, LA, June 2018.
-Sai Abishek Bhaskar, Maximilian Köper, Sabine Schulte im Walde, Diego Frassinelli
-Exploring Multi-Modal Text+Image Models to Distinguish between Abstract and Concrete Nouns [pdf/bib]
-In: Proceedings of the IWCS Workshop on Foundations of Situated and Multimodal Communication.</description>
+      <description>Eleri Aedmaa, Maximilian Köper, Sabine Schulte im Walde Combining Abstractness and Language-specific Theoretical Indicators for Detecting Non-Literal Usage of Estonian Particle Verbs [pdf/poster/resource/bib] In: Proceedings of the NAACL 2018 Student Research Workshop (NAACL-SRW). New Orleans, LA, June 2018.
+Sai Abishek Bhaskar, Maximilian Köper, Sabine Schulte im Walde, Diego Frassinelli Exploring Multi-Modal Text+Image Models to Distinguish between Abstract and Concrete Nouns [pdf/bib] In: Proceedings of the IWCS Workshop on Foundations of Situated and Multimodal Communication.</description>
     </item>
     
     <item>
@@ -47,15 +41,9 @@ In: Proceedings of the IWCS Workshop on Foundations of Situated and Multimodal C
       <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
       
       <guid>https://kater-concepts.github.io/teaching/</guid>
-      <description>Cognitive and Computational Models of Abstractness
-Diego Frassinelli, Sabine Schulte im Walde
-Introductory Course at the 33rd European Summer School in Logic, Language and Information
-National University of Ireland Galway, August 8-12, 2022
-Cognitive and Computational Models of Abstractness
-Diego Frassinelli, Sabine Schulte im Walde
-Foundational Course at the 32nd European Summer School in Logic, Language and Information
-Utrecht Science Park in the Uithof, August 10-14, 2020 &amp;ndash; Cancelled
-Cognitive and Computational Models of Abstractness</description>
+      <description>Cognitive and Computational Models of Abstractness Diego Frassinelli, Sabine Schulte im Walde Introductory Course at the 33rd European Summer School in Logic, Language and Information National University of Ireland Galway, August 8-12, 2022
+Cognitive and Computational Models of Abstractness Diego Frassinelli, Sabine Schulte im Walde Foundational Course at the 32nd European Summer School in Logic, Language and Information Utrecht Science Park in the Uithof, August 10-14, 2020 &amp;ndash; Cancelled
+Cognitive and Computational Models of Abstractness Sabine Schulte im Walde Universität Stuttgart, Summer Term 2020</description>
     </item>
     
     <item>
@@ -64,7 +52,16 @@ Cognitive and Computational Models of Abstractness</description>
       <pubDate>Sun, 07 Nov 2021 08:16:20 +0100</pubDate>
       
       <guid>https://kater-concepts.github.io/team/</guid>
-      <description>Principal Investigators  Jun.-Prof. Diego Frassinelli (University of Konstanz) Prof. Sabine Schulte im Walde (University of Stuttgart)  Staff Members  Simone Beckmann Escandón, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2021) Sai Abishek Bhaskar, Bachelor Student (Manipal Institute of Technology, India, 2017) Maximilian Bräuninger, Master thesis (Institut für Informatik, Universität Stuttgart, 2019) Sabrina Brill, Bachelor Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2018) Stefan Fischer, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, current) Jan Gemander, Master Student (Institut für Informatik, Universität Stuttgart, 2018) Maximilian Köper, PhD Student (SFB 732/D12, 2014-2018) Christos Lontos, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2021) Daniela Naumann, PhD Student (SFB 732/MGK, 10/2017-06/2018)  </description>
+      <description>Principal Investigators Jun.-Prof. Diego Frassinelli (University of Konstanz) Prof. Sabine Schulte im Walde (University of Stuttgart) Staff Members Simone Beckmann Escandón, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2021) Sai Abishek Bhaskar, Bachelor Student (Manipal Institute of Technology, India, 2017) Maximilian Bräuninger, Master thesis (Institut für Informatik, Universität Stuttgart, 2019) Sabrina Brill, Bachelor Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2018) Stefan Fischer, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, current) Jan Gemander, Master Student (Institut für Informatik, Universität Stuttgart, 2018) Maximilian Köper, PhD Student (SFB 732/D12, 2014-2018) Christos Lontos, Master Student (Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, 2021) Daniela Naumann, PhD Student (SFB 732/MGK, 10/2017-06/2018) </description>
+    </item>
+    
+    <item>
+      <title>ESSLLI 2022: Cognitive and Computational Models of Abstractness</title>
+      <link>https://kater-concepts.github.io/esslli22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kater-concepts.github.io/esslli22/</guid>
+      <description>Across disciplines, researchers are eager to gain insight into empirical features of abstract vs. concrete concepts and words. In the first part of this course we present an overview of the cognitive science literature which reports extensive analyses of how concrete concepts are processed, with however little consensus about the nature of abstract concepts. In the second part of this course we look into this dichotomy from a computational perspective, where the inclusion of information regarding the concreteness of words has been demonstrated to play a key role across NLP tasks, such as the automatic identification of figurative language.</description>
     </item>
     
   </channel>
